@@ -24,7 +24,15 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Humble Superhero API, a small API test developed with [Nest](https://github.com/nestjs/nest) framework. In it, you may add superheroes and fetch the list of the added superheroes sorted by their humility score.
+
+## How would I collaborate with a teammate in its improvement?
+
+Firstly, I would establish clear communication on a platform like Slack or similar, and define tasks and roles on a tool like Trello or Taiga. By doing this, we could understand each other’s working styles, clarify any doubts regarding the tasks, and adapt if necessary. Next, I would establish a branching strategy such as GitFlow or something similar to organize our work. Finally, I would begin development, always making sure to check in with my partner periodically to share our progress.
+
+## If I had more time
+
+If I had more time on this project, I would definitely create the React interface to interact with the API. Additionally, I would create the remaining endpoints to edit and delete superheroes. I would also add more tests to cover other parts of the code and endpoints. Finally, I would implement a simple relational database to store the superheroes permanently.
 
 ## Project setup
 
